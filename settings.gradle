@@ -1,0 +1,2 @@
+rootProject.name='ConstraintLayoutBuildPractise'
+include ':app'
